@@ -1,0 +1,23 @@
+'code_module'-> object
+'code_presentation'-> object
+'id_student'-> intero ma dovrebbe essere object
+'date_registration'-> float
+'date_unregistration'-> float
+'gender'-> object 
+'region'-> object 
+'highest_education'-> object
+'imd_band'-> object 
+'age_band-> object 
+'num_of_prev_attempts'-> int 
+'studied_credits'-> int
+'disability'-> object 
+'final_result'-> object 
+'module_presentation_length'-> int
+'total_clicks'-> int 
+'id_assessment'-> object
+'assessment_type'-> object 
+'date'-> int 
+'weight'-> int
+'date_submitted'-> int 
+'is_banked'-> int ma dovrebbe essere boolean 
+'score'-> int
